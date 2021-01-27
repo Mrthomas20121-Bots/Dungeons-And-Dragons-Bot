@@ -1,0 +1,13 @@
+{
+  "characterName": "Rhashk",
+  "characterClass": "Fighter",
+  "characterRace": "Lizardfolk",
+  "characterTraits": [],
+  "characterStats": {
+    "Strength": 7,
+    "Dexterity": 5,
+    "Intelligence": 9,
+    "Wisdom": 3,
+    "Charisma": 3
+  }
+}

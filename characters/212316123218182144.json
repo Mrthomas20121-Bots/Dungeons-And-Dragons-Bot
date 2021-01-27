@@ -1,0 +1,13 @@
+{
+  "characterName": "KoolerDooger",
+  "characterClass": "sorcerer",
+  "characterRace": "dragonborn",
+  "characterTraits": [],
+  "characterStats": {
+    "Strength": 6,
+    "Dexterity": 2,
+    "Intelligence": 11,
+    "Wisdom": 13,
+    "Charisma": 3
+  }
+}

@@ -1,0 +1,29 @@
+Class :
+
+Barbarian
+Bard
+Cleric
+Druid
+Fighter
+Monk
+Paladin
+Ranger
+Rogue
+Sorcerer
+Warlock
+Wizard
+
+Race : 
+Dragonborn
+Dwarf
+Eladin
+Elf
+Gnome
+Orc
+Half-elf
+Half-orc
+Halfling
+humain
+tiefling
+dragonborn
+Sorcerer

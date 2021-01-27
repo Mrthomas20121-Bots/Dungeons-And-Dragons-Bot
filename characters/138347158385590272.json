@@ -1,0 +1,13 @@
+{
+  "characterName": "Selabir",
+  "characterClass": "gnome",
+  "characterRace": "elf",
+  "characterTraits": [],
+  "characterStats": {
+    "Strength": 8,
+    "Dexterity": 6,
+    "Intelligence": 8,
+    "Wisdom": 4,
+    "Charisma": 13
+  }
+}

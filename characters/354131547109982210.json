@@ -1,0 +1,13 @@
+{
+  "characterName": "Nato",
+  "characterClass": "Archer",
+  "characterRace": "Human",
+  "characterTraits": [],
+  "characterStats": {
+    "Strength": 3,
+    "Dexterity": 6,
+    "Intelligence": 14,
+    "Wisdom": 9,
+    "Charisma": 11
+  }
+}

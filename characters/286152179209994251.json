@@ -1,0 +1,13 @@
+{
+  "characterName": "Parko",
+  "characterClass": "Ranger",
+  "characterRace": "Elf",
+  "characterTraits": [],
+  "characterStats": {
+    "Strength": 15,
+    "Dexterity": 9,
+    "Intelligence": 10,
+    "Wisdom": 11,
+    "Charisma": 14
+  }
+}
