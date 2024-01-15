@@ -9,9 +9,6 @@
   "author": "Mrthomas20121",
   "license": "ISC",
   "dependencies": {
-    "discord.io": "github:Woor/discord.io#gateway_v6",
-    "file-download": "^0.1.2",
-    "fs": "0.0.1-security",
-    "winston": "^2.3.1"
+    "eris": "^0.17.1"
   }
 }
